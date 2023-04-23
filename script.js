@@ -13,7 +13,7 @@ const winningScoreSelect = document.querySelector('#winningScore');
 
 let p1Score = 0
 let p2Score = 0
-let winningScore = 25;
+let winningScore = 3;
 let isGameOver = false;
 
 function updateScores(player, opponent) {
